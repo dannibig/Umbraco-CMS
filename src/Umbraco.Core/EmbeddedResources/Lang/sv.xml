@@ -646,6 +646,11 @@
     <key alias="instruction">Logga in nedan</key>
     <key alias="signInWith">Logga in med</key>
     <key alias="timeout">Sessionen har nått sin maxgräns</key>
+    <key alias="forgottenPassword">Glömt lösenordet?</key>
+    <key alias="forgottenPasswordInstruction">Ett e-postmeddelande kommer att skickas till den angivna adressen med en länk för att återställa lösenordet.</key>
+    <key alias="requestPasswordResetConfirmation">Ett e-postmeddelande med instruktioner för att återställa lösenordet kommer att skickas till den angivna adressen om den stämmer överens med våra register.</key>
+    <key alias="returnToLogin">Tillbaka till inloggningssidan</key>
+    <key alias="userFailedLogin">Oops! Vi kunde inte logga in dig. Vänligen kontrollera dina inloggningsuppgifter och försök igen.</key>
   </area>
   <area alias="main">
     <key alias="dashboard">Översikt</key>
